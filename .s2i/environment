@@ -1,1 +1,5 @@
-WAR_FILE_LOCATION=http://nexus3.nexus.svc.cluster.local:8081/repository/releases/org/jboss/quickstarts/eap/jboss-tasks-rs/1.0/jboss-tasks-rs-1.0.war
+NEXUS_HOST=http://nexus3-user2-nexus.apps.advdev.openshift.opentlc.com/repository/maven-releases
+WAR_VERSION=7.0-36
+MAVEN_GROUP=org/jboss/quickstarts/eap
+MAVEN_ARTIFACT=jboss-kitchensink-angularjs
+WAR_FILE_LOCATION=http://nexus3-user2-nexus.apps.advdev.openshift.opentlc.com/repository/maven-releases/org/jboss/quickstarts/eap/jboss-kitchensink-angularjs/7.0-36/jboss-kitchensink-angularjs-7.0-36.war
